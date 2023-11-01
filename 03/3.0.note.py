@@ -1,9 +1,9 @@
 ### IF CONDITION ### 
 
-if condition: 
- do this 
-else:
- do this 
+# if condition: 
+#  do this 
+# else:
+#  do this 
 
 ##drain water condition using if 
 water_level = 90
@@ -32,13 +32,13 @@ else:
 ##note: = assignment , == check euqality 
 
 ###Nested if and elif statements###
-if conditon:
-if another condtion:
-  do this
-else:
-  do this
-else:
- do this
+# if conditon:
+# if another condtion:
+#   do this
+# else:
+#   do this
+# else:
+#  do this
 
 ##ride - height limit with nested if 
 print("Welcome to the rollercoaster!")
@@ -55,12 +55,12 @@ else:
   print("Sorry, you have to grow taller before you can ride.")
 
 ##elif## - you can add any many 'elif' condition as you want betwween 'if' and 'else'.
-if condition1: 
-  do A
-elif condition2:
-  do B
-else:
-  do this
+# if condition1: 
+#   do A
+# elif condition2:
+#   do B
+# else:
+#   do this
 
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
